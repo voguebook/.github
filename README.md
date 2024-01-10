@@ -18,6 +18,3 @@ We welcome contributions from the community. If you're interested in contributin
 ## Contact
 For more information, reach out to us at [hc@voguebook.app](mailto:hc@voguebook.app).
 
----
-
-This README gives an overview of Voguebook’s vision, key features, and goals, aligning with the insights from the business plan. You can adjust the content to suit the specific sections of your GitHub repository and add more technical details as needed.
